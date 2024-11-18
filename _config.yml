@@ -12,22 +12,22 @@ title                    : "Boya Liao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : http://boyaliao.github.io
+url                      : https://boyaliao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "http://boyaliao.github.io"
+repository               : "https://boyaliao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/liaoboya.png"
+  avatar           : "liaoboya.png"
   name             : "Boya Liao"
   # pronouns         : # example: "she/her"  
   bio              : "Prospective Ph.D. Student in Computer Vision Related Fields - Fall 2025."
   location         : "Hangzhou, China"
   # employer         : "Red Brick University"
-  uri              : http://boyaliao.github.io
+  uri              : https://boyaliao.github.io
   email            : "bursonliao@gmail.com" 
 
   # Academic websites
