@@ -29,13 +29,13 @@ author:
   # employer         : "Red Brick University"
   # uri              : https://boyaliao.github.io
   email            : "bursonliao@gmail.com" 
-  github           : "boyaliao"
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
+  github           : "https://github.com/BoyaLiao"
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
