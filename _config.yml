@@ -12,7 +12,7 @@ title                    : "Boya Liao"
 title_separator          : "-"
 name                     : &name "Boya Liao"
 description              : &description "personal description"
-url                      : https://boyaliao.github.io
+url                      : 
 baseurl                  : ""
 repository               : "boyaliao.github.io"
 
@@ -21,13 +21,13 @@ repository               : "boyaliao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "liaoboya.png"
+  avatar           : ""
   name             : "Boya Liao"
   # pronouns         : # example: "she/her"  
   bio              : "Prospective Ph.D. Student in Computer Vision Related Fields - Fall 2025."
   location         : "Hangzhou, China"
   # employer         : "Red Brick University"
-  uri              : https://boyaliao.github.io
+  url              : https://boyaliao.github.io
   email            : "bursonliao@gmail.com" 
 
   # Academic websites
