@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Boya Liao"
+title: "Boya Liao (廖博雅)"
 author_profile: true
 redirect_from: 
   - /about/
