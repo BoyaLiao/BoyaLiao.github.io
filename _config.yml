@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Boya Liao (廖博雅)"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "personal description"
