@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Boya Liao"
 title_separator          : "-"
-name                     : &name "Boya Liao"
+name                     : &name "Home"
 description              : &description "personal description"
 url                      : https://boyaliao.github.io
 baseurl                  : ""
