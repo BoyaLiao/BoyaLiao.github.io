@@ -21,7 +21,7 @@ repository               : "http://boyaliao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "liaoboya.png"
+  avatar           : "/images/liaoboya.png"
   name             : "Boya Liao"
   # pronouns         : # example: "she/her"  
   bio              : "Prospective Ph.D. Student in Computer Vision Related Fields - Fall 2025."
@@ -44,7 +44,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-    github           : "academicpages"
+    github           : "boyaliao"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
