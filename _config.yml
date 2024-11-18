@@ -21,18 +21,18 @@ repository               : "boyaliao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "abc.png"
+  avatar           : "liaoboya.png"
   name             : "Boya Liao"
   # pronouns         : # example: "she/her"  
   bio              : "Prospective Ph.D. Student in Computer Vision Related Fields - Fall 2025."
   location         : "Hangzhou, China"
   # employer         : "Red Brick University"
-  url              : https://boyaliao.github.io
+  uri              : https://boyaliao.github.io
   email            : "bursonliao@gmail.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
