@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master’s degree in Computer Technology at the Department of Computer Science and Technology, [ZheJiang University](https://www.zju.edu.cn/english/). I’m honored to work under the guidance of Prof. Mingli Song at the [VIPA](https://www.vipazoo.cn/). 
+I am currently pursuing a Master’s degree in Computer Technology at the Department of Computer Science and Technology, [ZheJiang University](https://www.zju.edu.cn/english/). I’m honored to work under the guidance of Prof. Mingli Song at the [Laboratory of Visual Intelligence and Pattern Analysis](https://www.vipazoo.cn/). 
 
 Before joining ZheJiang University, I earned my Bachelor’s degree in Computer Science and Technology from [Chang'an University](https://en.chd.edu.cn/).
 
