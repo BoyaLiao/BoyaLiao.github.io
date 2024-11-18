@@ -12,7 +12,7 @@ title                    : "Boya Liao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : http://boyaliao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "http://boyaliao.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Prospective Ph.D. Student in Computer Vision Related Fields - Fall 2025."
   location         : "Hangzhou, China"
   # employer         : "Red Brick University"
-  uri              : "http://boyaliao.github.io"
+  uri              : http://boyaliao.github.io
   email            : "bursonliao@gmail.com" 
 
   # Academic websites
