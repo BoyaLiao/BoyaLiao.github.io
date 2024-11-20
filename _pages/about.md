@@ -11,6 +11,6 @@ I am currently pursuing a Master’s degree in Computer Technology at the Depart
 
 Before joining ZheJiang University, I earned my Bachelor’s degree in Computer Science and Technology from [Chang'an University](https://en.chd.edu.cn/).
 
-I am deeply interested in computer vision, data visualization.
+I am deeply interested in Computer Vision, AI for Science, eXplainable Artificial Intelligence.
 
 
