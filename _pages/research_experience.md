@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "research experience"
+title: "Research Experience"
 permalink: /research_experience/
 author_profile: true
 redirect_from:
   - /research_experience
 ---
-
-## Research Experience
 
 ### [Laboratory of Visual Intelligence and Pattern Analysis](https://www.vipazoo.cn/) 
 * __Position:__ Graduate Researcher
