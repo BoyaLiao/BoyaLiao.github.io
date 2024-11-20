@@ -4,7 +4,7 @@ title: "research experience"
 permalink: /research_experience/
 author_profile: true
 redirect_from:
-  - /research
+  - /research_experience
 ---
 
 ## Research Experience
