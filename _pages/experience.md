@@ -7,15 +7,11 @@ redirect_from:
   - /experience
 ---
 
-### [Laboratory of Visual Intelligence and Pattern Analysis](https://www.vipazoo.cn/) 
-* __Position:__ Graduate Researcher
-* __Duration:__ Aug 2022 - Present
-* __Advisor:__ Dr. Mingli Song  
-   * Object Detection and Image Segmentation
-   * Zero-Shot Learning
-   * eXplainable Artificial Intelligence
+* Graduate Researcher, 2022 - Present
+  [Laboratory of Visual Intelligence and Pattern Analysis](https://www.vipazoo.cn/), Hangzhou, China
 
-### [Chang'an University](https://en.chd.edu.cn/)
-* __Position:__ Undergraduate Researcher
-* __Duration:__ Sep 2018 - Jun 2020
-* __Advisor:__ Dr. Hang Ning
+* M.Eng. in Computer Technology, 2022 - Present
+  [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China
+
+* B.Eng. in Computer Science and Technology, 2016 - 2020
+  [Chang'an University](https://en.chd.edu.cn/), Xi'an, China
