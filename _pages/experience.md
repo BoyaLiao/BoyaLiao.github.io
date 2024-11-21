@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Research Experience"
-permalink: /research_experience/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
-  - /research_experience
+  - /experience
 ---
 
 ### [Laboratory of Visual Intelligence and Pattern Analysis](https://www.vipazoo.cn/) 
