@@ -14,4 +14,4 @@ redirect_from:
   Zhejiang University, Hangzhou, China
 
 * B.Eng. in Computer Science and Technology, 2016 - 2020  
-  NorthWest University, Xi'an, China
+  Chang'an University, Xi'an, China
